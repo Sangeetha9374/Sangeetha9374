@@ -35,15 +35,19 @@ I am a passionate Frontend Developer with experience in building responsive and 
 
 ### 🎓 Student Placement Management System
 React.js based placement management application with student, admin and company modules.
+🔗 Repository:https://github.com/Sangeetha9374/student-placement-management-system
 
 ### 💄 Radiance Beauty Studio
 Beauty parlour web application developed using React.js and TypeScript.
+🔗 Repository:https://github.com/Sangeetha9374/Beauty_Parlour_Studio
 
 ### 🍽️ Catering Service Website
 Responsive catering service frontend application built using React.js.
+🔗 Repository:https://github.com/Sangeetha9374/catering-service-management-system
 
 ### 🏥 Smart Location Based Hospital Finder System
 Web application developed using PHP and MySQL to find hospitals and manage appointments.
+🔗 Repository:https://github.com/Sangeetha9374/smart-hospital-finder
 
 ## 📫 Contact
 

@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi 👋, I'm Sangeetha
 
-<!--
-**Sangeetha9374/Sangeetha9374** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Frontend Developer | React.js Developer
 
-Here are some ideas to get you started:
+I am a passionate Frontend Developer with experience in building responsive and user-friendly web applications using React.js, JavaScript, TypeScript, HTML5, and CSS3.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 B.Sc. Computer Science Graduate
+- 💻 Frontend Developer specializing in React.js
+- 🌱 Learning modern web development technologies
+- 🔍 Looking for Frontend Developer opportunities
+
+## 🛠️ Technical Skills
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- React.js
+- Responsive Web Design
+
+### Backend & Database
+- Python
+- PHP
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+## 📂 Projects
+
+### 🎓 Student Placement Management System
+React.js based placement management application with student, admin and company modules.
+
+### 💄 Radiance Beauty Studio
+Beauty parlour web application developed using React.js and TypeScript.
+
+### 🍽️ Catering Service Website
+Responsive catering service frontend application built using React.js.
+
+### 🏥 Smart Location Based Hospital Finder System
+Web application developed using PHP and MySQL to find hospitals and manage appointments.
+
+## 📫 Contact
+
+LinkedIn:https://www.linkedin.com/in/sangeetha-p1
+
+GitHub:https://github.com/Sangeetha 9374
